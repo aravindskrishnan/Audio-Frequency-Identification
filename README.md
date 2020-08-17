@@ -57,6 +57,7 @@ FFT algorithms are much more accurate than evaluating the DFT definition directl
 There are many different FFT algorithms based on a wide range of published theories, from simple complex-number arithmetic to group theory and number theory
 
 Let Xo , …, Xn-1 be complex numbers. The DFT is defined by the formula:
+
 ![alt text](https://miro.medium.com/max/812/1*Hm88khvsCJE7e0kkUJ97wA.png)
 
 
